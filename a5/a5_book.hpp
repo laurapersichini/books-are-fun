@@ -6,18 +6,6 @@
 //  Copyright © 2020 Laura Persichini. All rights reserved.
 
 /*
-Student Name #1: Laura Persichini
-ID#: 20894127
-Student Name #2: Chintansingh Gurucharansingh Chhabda
-ID: 20872484
- 
- SYDE 121 Assignment #5
- File Name: a5_book.hpp
- 
- We hereby declare that this code, submitted for credit for the course
- SYDE121, is a product of our own efforts. This coded solution has
- not been plagiarized from other sources and has not been knowingly
- plagiarized by others.
 
  Project: Books are awesome
  Purpose: Create a book object with a title, author, and date of publication using a library and book class. Implement the insert and remove functions from the library class to add or remove books.
